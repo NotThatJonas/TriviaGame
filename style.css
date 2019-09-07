@@ -1,0 +1,23 @@
+.choice {
+    border: 1px solid gray;
+    padding: 1%;
+    border-radius: 6px;
+    cursor: pointer;
+    background: lightgrey;
+    text-align: center;
+}
+
+
+body {
+    background-image: url(./assets/images/Jeopardy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    text-align: center;
+}
+
+#game {
+    text-align: center;
+}

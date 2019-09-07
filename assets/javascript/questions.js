@@ -2,7 +2,7 @@ var theQuestions = [
     {
         question: 'What is Darth Vaders real name?',
         choices: ['Luke','Ken-obi', 'r2-d2', 'Anakin'],
-        correctAnswer: 'anakin',
+        correctAnswer: 'Anakin',
     },
 
     {
